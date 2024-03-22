@@ -1,2 +1,4 @@
 ## Hobbies
 - Dancing: ...
+- bailando
+- cantando
